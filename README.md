@@ -1,1 +1,4 @@
-# Rahulsri97
+- 👋 Hi, I am Rahul Srivastava
+- 👀 I’m interested in using my python skills to supercharge finance
+- 🌱 I’m currently learning Large language models
+- ⚡ Fun fact: Can whip up an interesting story about anything!
